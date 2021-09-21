@@ -37,14 +37,14 @@ Then, research the question to expand on your answer. Even if you feel you have 
   Your answer: Creating a pathway to the particular key
 
   Researched answer: we create objects with curly braces and a list of properties. A property must be a string or a symbol
-  The value can be of any type 
+  The value can be of any type a list of properties a property is a key value pair where key must be a string or a symbol
 
 
 
 4. What is the difference between a function and a method?
 
   Your answer: I think function produce an output and they are reusable 
-  method is a function that belong to an object a list of properties a property is a key value pair where key must be a string or a symbol
+  method is a function that belong to an object 
 
   Researched answer: function: It can be called directly by its name
                                It can pass the data that is operated and may return data
